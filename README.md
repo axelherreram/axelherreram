@@ -8,9 +8,7 @@
 
 <h3> 👨‍💻 About Me :</h3> 
 
-- Regularmente suelo practicar creando proyectos.
-
-- 
+- Regularmente suelo practicar creando proyectos. 
 
 - Actualmente estoy aprendiendo **Javascript a profundidad**.
 
