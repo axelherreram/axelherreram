@@ -28,15 +28,22 @@
     </div>
 </div>
 
-<h3  align="center">MIS ESTADISTICAS:</h3>
-<p align="center">
-<table align="left">
-<tr border="none">
-<td width="60%" align="center">
-<img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=axelherreram&theme=default&hide_border=false" /> 
-</td>
-<td width="40%" align="center">
-<img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=axelherreram&theme=default&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-</td>
-</tr>
-</table>
+<div align="center">
+  <h3>MIS ESTADISTICAS:</h3>
+</div>
+
+<div align="center">
+  <table>
+    <tr border="none">
+      <td width="60%" align="center">
+        <a href="https://git.io/streak-stats">
+          <img src="https://github-readme-streak-stats.herokuapp.com?user=axelherreram&hide_border=true&locale=es&card_width=503" alt="GitHub Streak" />
+        </a>
+      </td>
+      <td width="40%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=axelherreram&layout=donut" />
+      </td>
+    </tr>
+  </table>
+</div>
+
